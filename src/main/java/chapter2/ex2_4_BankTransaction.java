@@ -55,3 +55,7 @@ public class ex2_4_BankTransaction {
     return Objects.hash(date, amount, description);
   }
 }
+/**
+ * 도메인 객체
+ * 도메인은 비지니스 문제와 동일한 단어와 용어를 사용한다는 의미임
+ */
