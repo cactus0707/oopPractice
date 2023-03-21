@@ -6,7 +6,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
 
-public class BankTransactionAnalyzerSimple {
+public class ex2_1_BankTransactionAnalyzerSimple {
 
   private static final String RESOURCES = "src/main/resources/";
 
@@ -41,5 +41,6 @@ public class BankTransactionAnalyzerSimple {
   *
   * 우선 첫 번째 질문에 대한 대답 부터 하자.
   * KISS 원칙(Keep it short simple)을 이용해 응용프로그램 코드를 한 개의 클래스로 구현 했다.
+  * 수정해야 할 부분이 상당히 많은 프로그램이지만, 우선 책을 따라가보자
   * */
 }
